@@ -1,3 +1,5 @@
+#!/bin/sh
+
 zmodload zsh/datetime
 
 __cmdtime_current_time() {
